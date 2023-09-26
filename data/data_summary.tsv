@@ -1,0 +1,10 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Erwinia tasmaniensis Et1/99		strain: Et1/99	465817	ASM2618v1	GCF_000026185.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3883467	4067864	2008-05-13	3784	PRJEA20585	SAMEA2272215
+Erwinia amylovora CFBP1430		strain: CFPB1430	665029	ASM9156v1	GCF_000091565.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3805573	3833832	2010-03-25	3488	PRJNA46805	SAMEA3138297
+Erwinia billingiae Eb661		strain: Eb661	634500	ASM19661v1	GCF_000196615.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5100167	5372268	2010-06-22	4983	PRJEA34781	SAMEA2272131
+Erwinia pyrifoliae		strain: EpK1/15	79967	ASM295231v1	GCF_002952315.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4027225	4075681	2018-02-02	3803	PRJNA411857	SAMN07689503
+Erwinia persicina		strain: Cp2	55211	ASM1984409v1	GCF_019844095.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4664605	4802925	2021-09-01	4459	PRJNA756944	SAMN20930359
+Erwinia rhapontici		strain: BY21311	55212	ASM2068312v1	GCF_020683125.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5057383	5164665	2021-10-31	4775	PRJNA773578	SAMN22488137
+Erwinia tracheiphila		strain: BHKY	65700	ASM2136546v1	GCF_021365465.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4920713	4958521	2022-01-05	5143	PRJNA788515	SAMN24011481
+[Pantoea] beijingensis		strain: JZB2120001	1324864	ASM2264750v1	GCF_022647505.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4107390	4107390	2022-03-21	3723	PRJNA705825	SAMN18103994
+Candidatus Erwinia haradaeae		isolate: 3402, strain: ErCicurvipes	1922217	ErCicurvipes_v1.0	GCF_900698925.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	1076893	1112955	2019-02-28	675	PRJEB31188	SAMEA5379129
