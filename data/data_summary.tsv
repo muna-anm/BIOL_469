@@ -1,10 +1,29 @@
 Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Erwinia tasmaniensis Et1/99		strain: Et1/99	465817	ASM2618v1	GCA_000026185.1	GenBank	Annotation submitted by Max Planck Institute for Molecular Genetics (MPIMG)	Complete Genome	3883467	4067864	2008-05-13	3724	PRJEA20585	SAMEA2272215
+Erwinia amylovora CFBP1430		strain: CFPB1430	665029	ASM9156v1	GCA_000091565.1	GenBank	Annotation submitted by Bielefeld Univ	Complete Genome	3805573	3833832	2010-03-25	3834	PRJNA46805	SAMEA3138297
+Erwinia sp. Ejp617		strain: Ejp617	215689	ASM16581v1	GCA_000165815.1	GenBank	Annotation submitted by Kangwon National University	Complete Genome	3909168	3957675	2010-10-29	3769	PRJNA51141	SAMN02603467
+Erwinia billingiae Eb661		strain: Eb661	634500	ASM19661v1	GCA_000196615.1	GenBank	Annotation submitted by Max Planck Society	Complete Genome	5100167	5372268	2010-06-22	4952	PRJEA34781	SAMEA2272131
+Erwinia pyrifoliae		strain: EpK1/15	79967	ASM295231v1	GCA_002952315.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4027225	4075681	2018-02-02	3910	PRJNA411857	SAMN07689503
+Erwinia sp. QL-Z3		strain: QL-Z3	2547962	ASM455164v1	GCA_004551645.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4926645	5076534	2019-04-01	4751	PRJNA526778	SAMN11109673
+Erwinia sorbitola		strain: J780	2681984	ASM973818v1	GCA_009738185.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4699895	4750253	2019-12-10	4320	PRJNA592854	SAMN13441016
+Erwinia sp. E602		strain: E602	2675378	ASM1814100v1	GCA_018141005.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4842717	5168686	2021-04-27	4739	PRJNA590046	SAMN13316206
+Erwinia persicina		strain: Cp2	55211	ASM1984409v1	GCA_019844095.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4664605	4802925	2021-09-01	4449	PRJNA756944	SAMN20930359
+Erwinia rhapontici		strain: BY21311	55212	ASM2068312v1	GCA_020683125.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5057383	5164665	2021-10-31	4777	PRJNA773578	SAMN22488137
+Erwinia tracheiphila		strain: BHKY	65700	ASM2136546v1	GCA_021365465.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4920713	4958521	2022-01-05	5132	PRJNA788515	SAMN24011481
+[Pantoea] beijingensis		strain: JZB2120001	1324864	ASM2264750v1	GCA_022647505.1	GenBank		Complete Genome	4107390	4107390	2022-03-21		PRJNA705825	SAMN18103994
+Erwinia sp. DE2		strain: DE2	3062598	ASM3075845v1	GCA_030758455.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4523022	4758430	2023-08-16	4537	PRJNA996072	SAMN36511384
+Erwinia toletana		strain: 1.2.20	92490	ASM3216433v1	GCA_032164335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4923789	5014558	2023-09-28	4575	PRJNA674638	SAMN37199271
 Erwinia tasmaniensis Et1/99		strain: Et1/99	465817	ASM2618v1	GCF_000026185.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3883467	4067864	2008-05-13	3784	PRJEA20585	SAMEA2272215
 Erwinia amylovora CFBP1430		strain: CFPB1430	665029	ASM9156v1	GCF_000091565.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3805573	3833832	2010-03-25	3488	PRJNA46805	SAMEA3138297
+Erwinia sp. Ejp617		strain: Ejp617	215689	ASM16581v1	GCF_000165815.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	3909168	3957675	2010-10-29	3662	PRJNA51141	SAMN02603467
 Erwinia billingiae Eb661		strain: Eb661	634500	ASM19661v1	GCF_000196615.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5100167	5372268	2010-06-22	4983	PRJEA34781	SAMEA2272131
 Erwinia pyrifoliae		strain: EpK1/15	79967	ASM295231v1	GCF_002952315.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4027225	4075681	2018-02-02	3803	PRJNA411857	SAMN07689503
+Erwinia sp. QL-Z3		strain: QL-Z3	2547962	ASM455164v1	GCF_004551645.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4926645	5076534	2019-04-01	4749	PRJNA526778	SAMN11109673
+Erwinia sorbitola		strain: J780	2681984	ASM973818v1	GCF_009738185.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4699895	4750253	2019-12-10	4337	PRJNA592854	SAMN13441016
+Erwinia sp. E602		strain: E602	2675378	ASM1814100v1	GCF_018141005.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4842717	5168686	2021-04-27	4775	PRJNA590046	SAMN13316206
 Erwinia persicina		strain: Cp2	55211	ASM1984409v1	GCF_019844095.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4664605	4802925	2021-09-01	4459	PRJNA756944	SAMN20930359
-Erwinia rhapontici		strain: BY21311	55212	ASM2068312v1	GCF_020683125.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5057383	5164665	2021-10-31	4775	PRJNA773578	SAMN22488137
+Erwinia rhapontici		strain: BY21311	55212	ASM2068312v1	GCF_020683125.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5057383	5164665	2021-10-31	4781	PRJNA773578	SAMN22488137
 Erwinia tracheiphila		strain: BHKY	65700	ASM2136546v1	GCF_021365465.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4920713	4958521	2022-01-05	5143	PRJNA788515	SAMN24011481
 [Pantoea] beijingensis		strain: JZB2120001	1324864	ASM2264750v1	GCF_022647505.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4107390	4107390	2022-03-21	3723	PRJNA705825	SAMN18103994
-Candidatus Erwinia haradaeae		isolate: 3402, strain: ErCicurvipes	1922217	ErCicurvipes_v1.0	GCF_900698925.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	1076893	1112955	2019-02-28	675	PRJEB31188	SAMEA5379129
+Erwinia sp. DE2		strain: DE2	3062598	ASM3075845v1	GCF_030758455.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4523022	4758430	2023-08-16	4540	PRJNA996072	SAMN36511384
+Erwinia toletana		strain: 1.2.20	92490	ASM3216433v1	GCF_032164335.1	RefSeq	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	4923789	5014558	2023-09-28	4575	PRJNA674638	SAMN37199271
